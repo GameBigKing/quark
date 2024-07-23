@@ -1,0 +1,25 @@
+{
+  "res": 1,
+  "data": [
+    {
+      "ID": 1,
+      "Title": "Welcome",
+      "Content": "Welcome to the game. Have a good time! If you encounter any problems with the game, please contact customer service for help.\n",
+      "SortIndex": 0,
+      "SendTime": "2019-08-01T00:00:00",
+      "EndTime": "2099-01-01T00:00:00",
+      "Language": "en_us",
+      "Url": ""
+    },
+    {
+      "ID": 2,
+      "Title": "Selamat datang",
+      "Content": "Selamat datang di permainan. Semoga harimu menyenangkan! Jika anda memiliki masalah dalam permainan, hubungi customer service untuk bantuan.",
+      "SortIndex": 0,
+      "SendTime": "2019-08-01T00:00:00",
+      "EndTime": "2099-01-01T00:00:00",
+      "Language": "in_id",
+      "Url": ""
+    }
+  ]
+}
