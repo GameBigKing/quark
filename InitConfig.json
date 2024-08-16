@@ -1,9 +1,10 @@
 {
 	"MinVersion":"1.0.0",
-	"server_ip":"https://gamez.quarkdominos.com:20000",
+	"server_ip":"https://gamez.daqubos.com:20000",
 	"checkSim":"0",
 	"airplaneNumber":"Quarkslots0",
-	"payUrl":"https://gamez.quarkdominos.com:20100",
-	"ossUrl":"http://zyoss.quarkq.com/quarkplay/",
-	"shareLink":"https://s.quarkdmm.com"
+	"payUrl":"https://pay.bebedadi.com:20100",
+	"backupUrl":"http://backup.qutopdd.com/quarkplay/",
+	"ossUrl":"http://zyoss.qutopdd.com/quarkplay/",
+	"shareLink":"https://s.quarkdnn.com"
 }
